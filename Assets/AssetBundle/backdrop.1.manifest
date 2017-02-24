@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3693974424
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9bbdbd935d08b71310fafe01036803ea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Building/Backdrop.jpeg
+Dependencies: []
